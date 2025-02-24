@@ -12,9 +12,7 @@ Respuesta 2:Perfecto. La ICHOM tiene un conjunto de medidas estandarizadas para 
 Prompt 3:Prefiero que te bases en la ICHOM.
 
 Respuesta 3:Genial, desarrollaré un cuestionario basado en los estándares de ICHOM para insuficiencia cardiaca, asegurando que cubra los aspectos de calidad de vida y experiencia del paciente (PREMs).
-
 Incluiré secciones como:
-
 Acceso a la atención (tiempo de espera, facilidad para obtener citas).
 Comunicación con el equipo médico (claridad de la información, participación en decisiones).
 Apoyo emocional y bienestar (ansiedad, depresión, impacto emocional de la enfermedad).
@@ -22,3 +20,10 @@ Coordinación del cuidado (seguimiento, continuidad entre especialistas).
 Impacto en la calidad de vida (síntomas, limitaciones en la vida diaria, satisfacción con la atención recibida).
 Voy a redactar un primer borrador del cuestionario. Dame un momento. ⏳
 Aquí tienes un primer borrador del cuestionario basado en los estándares de ICHOM. Si deseas agregar más detalles o modificar alguna sección, dime y lo ajustamos. 😊
+
+Prompt 4: Me parece bien. Puedes ponerlo en un formulario de encuesta para responderlo desde el movil?
+
+Respuesta 4: Para convertir este cuestionario en un formulario interactivo para móviles, puedes usar herramientas como Google Forms, Microsoft Forms o Typeform.
+Si prefieres, puedo guiarte paso a paso para crearlo o generar un enlace con un formulario en Google Forms. ¿Cuál opción prefieres? 😊
+
+Prompt 5:
