@@ -6,6 +6,8 @@ Resultados prompts
 ![image](https://github.com/user-attachments/assets/b1fff4d7-d65f-403e-a00d-d1459896150c)
 ![image](https://github.com/user-attachments/assets/afdf10fd-fec7-4871-9ac2-772966415b39)
 
+
+
 Ejercicio Cuestionario IC
 
 Cuestionario de Experiencia del Paciente con Insuficiencia Cardíaca (PREMs) - Basado en ICHOM
