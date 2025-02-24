@@ -15,9 +15,10 @@ Este es un ejercicio realizado con Chat GPT 4o con 5 prompts y estos son los res
 
 
 
-Ejercicio 2 Cuestionario IC
 
-Este es un ejercicio realizado con Chat GPT 4o 
+Ejercicio 2 Cuestionario Insuficiencia Cardiaca
+
+Este es un ejercicio realizado con Chat GPT 4o con 3 prompts.
 
 Cuestionario de Experiencia del Paciente con Insuficiencia Cardíaca (PREMs) - Basado en ICHOM
 
