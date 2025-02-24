@@ -1,3 +1,9 @@
+Soy una persona curiosa e inquieta siempre con ganas de aprender.
+
+Ahora os muestro mis primeros resultados de mi interacción con la IA.
+
+
+
 # Curso-AI
 Ejercicio Historia gráfica Granada
 Resultados prompts
