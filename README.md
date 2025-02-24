@@ -1,13 +1,13 @@
-Soy una persona curiosa e inquieta siempre con ganas de aprender.
+Soy una persona curiosa e inquieta y siempre con ganas de aprender.
 
 Aquí os muestro mis primeros resultados de mi interacción con la IA.
 
 
 
 # Curso-AI
-Ejercicio Historia gráfica Granada
+Ejercicio 1 Historia gráfica Granada
 
-Este es un ejercicio realizado con Chat GPT 4o con prompts Resultados prompts
+Este es un ejercicio realizado con Chat GPT 4o con 5 prompts y estos son los resultados.
 
 ![image](https://github.com/user-attachments/assets/ab214e34-6f70-4e56-bd09-d91c8c427e72)
 ![image](https://github.com/user-attachments/assets/b1fff4d7-d65f-403e-a00d-d1459896150c)
@@ -15,7 +15,9 @@ Este es un ejercicio realizado con Chat GPT 4o con prompts Resultados prompts
 
 
 
-Ejercicio Cuestionario IC
+Ejercicio 2 Cuestionario IC
+
+Este es un ejercicio realizado con Chat GPT 4o 
 
 Cuestionario de Experiencia del Paciente con Insuficiencia Cardíaca (PREMs) - Basado en ICHOM
 
