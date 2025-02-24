@@ -8,6 +8,8 @@ Aquí os muestro mis primeros resultados de mi interacción con la IA.
 Ejercicio 1 Historia gráfica Granada
 
 Este es un ejercicio realizado con Chat GPT 4o con 5 prompts y estos son los resultados.
+Crear una historia gráfica estilo Asterix sobre la Contista de Granada por los Reyes Católicos en 20 viñetas.
+Le pedí que generara la imagen de 3 viñetas.
 
 ![image](https://github.com/user-attachments/assets/ab214e34-6f70-4e56-bd09-d91c8c427e72)
 ![image](https://github.com/user-attachments/assets/b1fff4d7-d65f-403e-a00d-d1459896150c)
